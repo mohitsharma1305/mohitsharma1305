@@ -61,7 +61,7 @@ Built with:
 
 - Actively participating in tech workshops, hackathons, and seminars
 - Exploring community-building ideas for tech events and workshops
-- Drafting optimized project proposals and submissions for competitions
+- Drafting optimized project proposals and submissions for competitions 
 
 ---
 
