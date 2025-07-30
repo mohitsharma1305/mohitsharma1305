@@ -69,9 +69,9 @@ Built with:
 
 I’m always up for collaboration, project ideas, and tech brainstorming.
 
-- 📫 Email: [Your Email]
-- 🧑‍💻 LinkedIn: [Insert your new LinkedIn or portfolio link]
-- 📷 Instagram (for creative content): [Optional]
+- 📫 Email: mohitsharma.pro.05@gmail.com
+- 🧑‍💻 LinkedIn: https://www.linkedin.com/in/mohit-sharma-1305-pro05/
+- 📷 Instagram (for creative content): https://www.instagram.com/mohitsharma_1305/
 
 ---
 
