@@ -1,16 +1,89 @@
-## Hi there 👋
+# 👋 Hey there, I'm Mohit Sharma
 
-<!--
-**mohitsharma1305/mohitsharma1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech AI & Data Science | Tech Enthusiast | Creator**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm currently pursuing my **Bachelor of Technology in Artificial Intelligence and Data Science**. I'm a curious learner who blends tech, creativity, and practicality into everything I build. From working on disaster management platforms to exploring UI/UX tools powered by AI — I love creating things that solve real-world problems efficiently.
+
+💡 I’m driven by innovation, efficient systems, and the belief that **technology should serve people** — not the other way around.
+
+---
+
+## 🛠️ Projects & Highlights
+
+### 🚨 Smart Disaster Agent (SDA)
+A platform to improve disaster response using:
+- 🔔 Real-time Alerts
+- 📍 Community Reporting
+- 📦 Optimized Resource Allocation
+Built with:
+- Frontend (React Web + Flutter App)
+- Backend: Flask API (Python)
+
+> Transitioning now into integrating AI/UX tools for productivity optimization.
+
+---
+
+### 📸 AI + Creativity
+- Developed and edited creative photography & reels
+- Used AI tools for content creation and automation
+- Currently building a persona for a fictional Indian influencer for experimental branding
+
+---
+
+### 📚 Academics & Technical Work
+- Data Structures & Algorithms (C, Java)
+- Web Dev (HTML, CSS, JS, React basics)
+- Understanding core CS subjects (OS, DBMS, Networks)
+- Quantum Physics, Optics & Semiconductor Theory (studied in Sem 2–3)
+
+---
+
+## ⚙️ Skills
+
+| Category           | Skills & Tools |
+|--------------------|----------------|
+| **Languages**       | C, C++, Python, Java |
+| **Frontend**        | HTML, CSS, JavaScript, React |
+| **Mobile Dev**      | Flutter (Basics) |
+| **Backend**         | Flask (Python) |
+| **AI Tools**        | ChatGPT, Figma AI plugins, Sora AI (for creativity) |
+| **UI/UX Tools**     | Figma, Framer, Canva |
+| **Tools & Platforms**| GitHub, VS Code, Replit, Notion, Canva |
+| **Other Interests** | Content Creation, Productivity Systems, Problem Solving |
+
+---
+
+## 📢 Hackathons & Workshops
+
+- Actively participating in tech workshops, hackathons, and seminars
+- Exploring community-building ideas for tech events and workshops
+- Drafting optimized project proposals and submissions for competitions
+
+---
+
+## 💬 Let's Connect
+
+I’m always up for collaboration, project ideas, and tech brainstorming.
+
+- 📫 Email: [Your Email]
+- 🧑‍💻 LinkedIn: [Insert your new LinkedIn or portfolio link]
+- 📷 Instagram (for creative content): [Optional]
+
+---
+
+## 📁 Repository Usage
+
+This repository acts as:
+- A **personal portfolio**
+- A **summary of my learning journey**
+- A **launchpad for future ideas**
+
+Stay tuned for more projects, ideas, and experiments!
+
+---
+
+> _“Keep learning. Keep building. Keep evolving.”_
