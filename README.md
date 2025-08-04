@@ -16,7 +16,7 @@ I'm currently pursuing my **Bachelor of Technology in Artificial Intelligence an
 
 ### 🚨 Smart Disaster Agent (SDA)
 A platform to improve disaster response using:
-- 🔔 Real-time Alerts
+- 🔔 Real-time Alerts 
 - 📍 Community Reporting
 - 📦 Optimized Resource Allocation
 Built with:
