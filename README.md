@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mohit Sharma
 
-<img src="avatar_img1.png" alt="Avatar" width="120" />
+<img src="avatar_img1.png" alt="Avatar" width="1200" />
 
 🎓 **B.Tech AI & Data Science | Tech Enthusiast | Creator**
 
