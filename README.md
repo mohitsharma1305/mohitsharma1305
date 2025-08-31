@@ -1,5 +1,6 @@
 # 👋 Hey there, I'm Mohit Sharma
 
+< AVTAR> </avatar_img.png>
 
 
 🎓 **B.Tech AI & Data Science | Tech Enthusiast | Creator**
